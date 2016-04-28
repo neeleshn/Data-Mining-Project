@@ -1,0 +1,15 @@
+data/
+bin
+out
+.idea/
+target
+.metadata
+.idea
+.settings
+.project
+.classpath
+MajorMinors.iml
+*.log
+*.iml
+MajorMinors.iml
+*~
